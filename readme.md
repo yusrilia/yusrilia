@@ -12,4 +12,4 @@ Greetings. I'm a Computer Science student with a passion for programming, data s
 - **Game developement**
 - **Internet of Things**
 
-![contributions](https://github.com/yusrilia/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![contributions](https://github.com/yusrilia/yusrilia/blob/output/github-contribution-grid-snake.svg)
