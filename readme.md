@@ -1,15 +1,12 @@
-## 🌙 Welcome to My GitHub!
+# greetings, i'm..
 
-Greetings. I'm a Computer Science student with a passion for programming, data science, and problem solving. My work blends creativity with logic.
-
-## 🚀 Technical Skills
-- **Programming Languages:** C++, Python, JavaScript
-- **Frameworks & Libraries:** OpenGL, TensorFlow, scikit-learn
-
-## 🌟 Interests
-- **Artificial Intelligence & Machine Learning** 🧠
-- **Computer Graphics** 🎨
-- **Game developement**
-- **Internet of Things**
+- computer science student
+- introverted
+- coffee ~~addict~~ lover
+- code for fun
+-  _**bold & italic**_
+- _selenophile_ 🌙
 
 ![Snake animation](https://raw.githubusercontent.com/yusrilia/yusrilia/output/github-contribution-grid-snake-dark.svg)
+
+![yusrilia's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusrilia&layout=compact&theme=synthwave)
